@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidStudiolab8</string>
+
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+
+    <string name="hint">Введите адрес…</string>
+    <string name="search">Найти</string>
+    <string name="path">Нажмите для построения маршрута</string>
+    <string name="result">Not found</string>
+
+    <string name="google_maps_key">AIzaSyA9jVSwsjAB5lxTyiQ2ydr8kKguSibuKT8</string>
+</resources>
